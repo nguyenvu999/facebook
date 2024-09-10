@@ -1,0 +1,8 @@
+export { default as Home } from './Home'
+export { default as Profile } from './Profile'
+export { default as UpdateProfile } from './UpdateProfile'
+export { default as CreatePost } from './CreatePost'
+export { default as EditPost } from './EditPost'
+export { default as PostDetail } from './PostDetail'
+export { default as Group } from './Group'
+export { default as CreateGroup } from './CreateGroup'
